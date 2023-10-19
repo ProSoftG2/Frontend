@@ -1,0 +1,71 @@
+{
+  "parkingSpaces": [
+    {
+      "id": 1,
+      "photo": "https://cdn.discordapp.com/attachments/891740823924903949/1161396859777069207/Z.png?ex=6538261d&is=6525b11d&hm=4886475539828157bdd30279c804079e1190517f9937d672c07f36b04addd252&",
+      "name": "Downtown Parking Lot",
+      "hourlyRate": 10.00,
+      "dailyRate": 50.00,
+      "address": "123 Main Street, City"
+    },
+    {
+      "id": 2,
+      "photo": "https://cdn.discordapp.com/attachments/891740823924903949/1161396911241175050/9k.png?ex=65382629&is=6525b129&hm=ed0dc79101e010727fac3e86684e7da32f6ab59b6b836ea776b28f27f0c74659&",
+      "name": "City Center Garage",
+      "hourlyRate": 12.50,
+      "dailyRate": 60.00,
+      "address": "456 Elm Street, Downtown"
+    },
+    {
+      "id": 3,
+      "photo": "https://cdn.discordapp.com/attachments/891740823924903949/1161396981583839263/Z.png?ex=6538263a&is=6525b13a&hm=8c5cba076d1ef968daccea0147df998f88d3132b2cb26036781ade213c6fc361&",
+      "name": "Airport Parking",
+      "hourlyRate": 8.00,
+      "dailyRate": 40.00,
+      "address": "789 Airport Road, International"
+    },
+    {
+      "id": 4,
+      "photo": "https://cdn.discordapp.com/attachments/891740823924903949/1161397018976071720/2Q.png?ex=65382643&is=6525b143&hm=279894486a9cce33799dfd8bba6891af4edde2105729e4fdcd181db88481a890&",
+      "name": "Shopping Mall Parking",
+      "hourlyRate": 9.00,
+      "dailyRate": 45.00,
+      "address": "101 Oak Avenue, Shopping District"
+    }
+
+  ],
+
+  "parkingDetails": [
+    {
+      "id": 1,
+      "ownerName": "John Doe",
+      "ownerContact": "john@example.com",
+      "CellPhoneNumber": 927654356,
+      "rentalDescription": "A spacious parking lot in the heart of the city with 24/7 access."
+
+    },
+    {
+      "id": 2,
+      "ownerName": "Alice Smith",
+      "ownerContact": "alice@example.com",
+      "CellPhoneNumber": 927654336,
+      "rentalDescription": "Secure covered parking in the downtown area, close to all amenities."
+    },
+    {
+      "id": 3,
+      "ownerName": "Robert Johnson",
+      "ownerContact": "robert@example.com",
+      "CellPhoneNumber": 927654316,
+      "rentalDescription": "Convenient airport parking with shuttle service to the terminal."
+    },
+    {
+      "id": 4,
+      "ownerName": "Emily Brown",
+      "ownerContact": "emily@example.com",
+      "CellPhoneNumber": 927644356,
+      "rentalDescription": "Ample parking space near a popular shopping mall."
+    }
+  ]
+}
+
+
